@@ -28,3 +28,8 @@ marked by Prof. Mark Richards [72/100]
 - Not-So-Simple Pendulum `2022.01.27 NSS Pendulum.pdf`
 - Resonance in LCR `2022.02.03 Resonance in LCR.pdf`
 - Faraday's Law `2022.02.10 Faraday's Law.pdf`
+
+### Second Year Labs
+##### Practicals
+###### Cycle 1: First Class
+- Radioactivity `Determining the Maximum Electron Energy.pdf`
